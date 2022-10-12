@@ -1,0 +1,9 @@
+body header{
+    background-color: rgb(50, 222, 50) ;
+}
+body header ul{
+    float: right;
+}
+li+li{
+   margin-left: 15 px;
+}
